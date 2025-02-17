@@ -2,7 +2,6 @@
 My minor project during internship training at Yhills Edutech.
 
 # Task Manager
-Overview
 The Task Manager is a simple web application that allows users to manage their daily tasks. Users can add tasks with deadlines, view their task list, and remove tasks as needed. The application is built using HTML, CSS, JavaScript, and Bootstrap for responsiveness and styling.
 
 # Features
